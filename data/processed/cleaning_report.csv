@@ -1,0 +1,5 @@
+step,rows_before,rows_after,rows_removed
+Exact duplicates,3724889,3724889,0
+Missing/invalid pickup timestamp,3724889,3724889,0
+Missing/invalid pickup zone,3724889,3724889,0
+Pickup outside January 2026,3724889,3724882,7
